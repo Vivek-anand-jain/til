@@ -1,0 +1,2 @@
+# how to kill a process with pid
+# kill -9 pid
