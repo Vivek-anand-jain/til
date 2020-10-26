@@ -1,0 +1,3 @@
+# how to edit bashrc file
+
+#vi ~/.bashrc
