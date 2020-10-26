@@ -1,0 +1,7 @@
+# How to Create Tmux session in Linux
+
+# tmux new -s my_session 
+
+# How to connect to session 
+
+# tmux a -t my_session
