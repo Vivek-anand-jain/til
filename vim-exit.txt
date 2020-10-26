@@ -1,0 +1,6 @@
+# How to exit from vim
+
+## Normal approach
+
+Step 1. Goto Visual mode by pressing ESC
+Step 2: Type `:wq` and enter to exit
